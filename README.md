@@ -34,4 +34,4 @@ Dette prosjektet lar brukeren søke etter måltider ved hjelp av TheMealDB API o
 ## Hjelp
 
 - Jeg hjalp Benjamin.
-- Fikk hjelp av Simen Heien.
+- Fikk hjelp av Simen Heien og Benjamin.
